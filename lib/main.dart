@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       theme: ThemeData(
         chipTheme: ChipThemeData(
-          deleteIconColor: Colors.white,
+          deleteIconColor: Colors.red,
           backgroundColor: Colors.teal.shade800,
           brightness: Brightness.light,
           disabledColor: Colors.grey,
